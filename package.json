@@ -1,0 +1,21 @@
+{
+  "name": "webpack-sample",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "fred",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
